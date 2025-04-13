@@ -2,10 +2,10 @@
 
 one:
   date: 2025-04-13
-  start_time: 2025-04-13 14:47:37
+  start_time: MyString
   game: MyString
 
 two:
   date: 2025-04-13
-  start_time: 2025-04-13 14:47:37
+  start_time: MyString
   game: MyString
