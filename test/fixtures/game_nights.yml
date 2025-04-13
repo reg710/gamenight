@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2025-04-13
+  start_time: 2025-04-13 14:47:37
+  game: MyString
+
+two:
+  date: 2025-04-13
+  start_time: 2025-04-13 14:47:37
+  game: MyString
