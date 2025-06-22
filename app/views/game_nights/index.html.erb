@@ -1,0 +1,20 @@
+<h1>Game Nights</h1>
+
+<div id="game_nights">
+  <% @game_nights.each do |game_night| %>
+    <div>
+      <%= game_night.date %>
+    </div>
+    <div>
+      <%= game_night.start_time %>
+    </div>
+    <div>
+      <%= game_night.game %>
+    </div>
+  <% end %>
+</div>
+
+
+<%= debug @game_nights %>
+
+
