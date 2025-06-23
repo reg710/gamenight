@@ -80,6 +80,4 @@ test:
 #
 production:
   <<: *default
-  database: gamenight_production
-  username: gamenight
   password: <%= ENV["SUPABASE_DATABASE_URL"] %>
